@@ -10,7 +10,7 @@
 * Valence OKO
 * Ann-Jireh MVOUTOU
 * LIBIZANGOMO LOUMA
-* Arcy EMERY
+* Arcy MIAMBANZILA
 
 **Encadrant :** Antoine Lucsko
 **Date :** 15 octobre 2025
@@ -130,7 +130,7 @@ Créer un pipeline ETL automatisé, testé et réutilisable pour analyser les do
 * Valence OKO : Développeuse – extraction et transformation des données
 * Ann-Jireh MVOUTOU : Développeuse – analyse statistique
 * Louma LIBIZANGOMO : Développeuse – documentation et relecture
-* Arcy EMERY : Développeur – support technique et optimisation
+* Arcy MIAMBANZILA : Développeur – support technique et optimisation
 
 **Rituels d’équipe :**
 
