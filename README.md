@@ -14,7 +14,7 @@
 
 **Encadrant :** Antoine Lucsko
 **Date :** 15 octobre 2025
-**Cours :** DataOps – BTS SIO SLAM / Parcours Data & App Design
+**Cours :** DataOps 
 
 ---
 
