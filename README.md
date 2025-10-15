@@ -9,7 +9,7 @@
 * Gloire BOUNGOU (Responsable du repo GitHub)
 * Valence OKO
 * Ann-Jireh MVOUTOU
-* Louma LIBIZANGOMO
+* LIBIZANGOMO LOUMA
 * Arcy EMERY
 
 **Encadrant :** Antoine Lucsko
@@ -195,7 +195,7 @@ Ce processus garantit la traçabilité, la reproductibilité et la qualité cont
 
 Éléments livrés :
 
-* Lien GitHub du projet : [https://github.com/glo007/dataops-boston](https://github.com/glo007/dataops-boston)
+* Lien GitHub du projet : [[https://github.com/glo007/dataops-boston](https://github.com/glo007/dataops-boston)](https://github.com/glo007/project_data.git)
 * Dernier commit : 15/10/2025
 * CI/CD GitHub Actions : opérationnelle
 * Pipeline ETL : fonctionnel de bout en bout
@@ -206,6 +206,3 @@ Ce processus garantit la traçabilité, la reproductibilité et la qualité cont
 
 
 ---
-
-✅ Ce texte est ton **README complet en version normale**, lisible dans Word, Bloc-notes ou VS Code sans mise en page Markdown.
-Souhaites-tu que je t’en fasse une **version PDF bien présentée** (titres en gras, encadrés, page de garde) pour ton rendu Teams ?
